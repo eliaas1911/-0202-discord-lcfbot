@@ -1,0 +1,1 @@
+https://discordjs.guide/message-components/interactions.html#responding-to-component-interactions
