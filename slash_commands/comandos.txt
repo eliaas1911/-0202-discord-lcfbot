@@ -1,0 +1,5 @@
+Próximos a realizar: 
+/fichar user 
+
+- Comandos de moderación
+- Comandos de interacción con el bot de HaxballJS
